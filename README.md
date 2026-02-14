@@ -1,4 +1,4 @@
-![Dashboard Önizlemesi](Ekran görüntüsü 2026-02-14 222252.png)
+![Dashboard Önizlemesi]([Ekran görüntüsü 2026-02-14 222252.png](https://github.com/gmzorhn/Excel_Bike_Sales_Dashboard/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-02-14%20222252.png))
 
 # Excel Bike Sales Dashboard
 
